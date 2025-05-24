@@ -44,7 +44,7 @@ This case study showcases how NMC Healthcare leveraged Okadoc’s digital soluti
 
 ## 🧑‍💻 Project Author
 
-Made with ❤️ by [Tommaso Gioacchini](https://www.tommasogioacchini.com)  
+Made with ❤️ by [Tommaso Gioacchini]  
 Regional Commercial Director @ Okadoc Technologies
 
 ## 📄 Live Preview
